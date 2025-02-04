@@ -5,6 +5,22 @@
   <b>An AI-powered reading assistant that helps users read PDFs aloud, transcribe speech, provide pronunciation feedback, and answer questions using LLMs.</b>
 </p>
 
+<h2>📖 How It Works</h2>
+
+<p>This <b>Enhanced Reading Assistant</b> processes a <b>PDF story</b> and guides users through an interactive reading experience, line by line.</p>
+
+<ol>
+  <li><b>Upload a PDF</b> – The system extracts text and splits it into lines for structured reading.</li>
+  <li><b>Read Aloud & Get Feedback</b> – You read a line aloud, and <b>Whisper AI (Speech-to-Text)</b> transcribes your speech.</li>
+  <li><b>Pronunciation Analysis</b> – Your spoken words are compared with the original text, and mistakes are highlighted in <b>color-coded feedback</b>.</li>
+  <li><b>Text-to-Speech (TTS)</b> – The AI reads the correct pronunciation using <b>Tacotron2-DDC</b> if needed.</li>
+  <li><b>Ask Questions</b> – Use the built-in <b>LLM (Llama3.2)</b> to get <b>context-aware answers</b> about the story.</li>
+  <li><b>Navigate Easily</b> – Move between lines using <b>Next/Previous buttons</b> to track progress.</li>
+</ol>
+
+<p>This tool makes reading <b>interactive and engaging</b>, improving both <b>pronunciation and comprehension</b>! 🚀</p>
+
+
 ## 🌟 Features  
 <ul>
   <li>📜 <b>PDF Text Extraction</b>: Processes and extracts text from uploaded PDF documents.</li>
