@@ -1,0 +1,9 @@
+streamlit
+requests
+PyPDF2
+langchain_ollama
+faster-whisper
+numpy
+sounddevice
+scipy
+torch
